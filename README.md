@@ -11,6 +11,7 @@ Features :
 - Result table
 
 Screenshot :
+[![menu](https://raw.githubusercontent.com/ilham-openbeta/laravel-dss/main/screenshot/alternative_menu.png "Alternative Menu")](https://raw.githubusercontent.com/ilham-openbeta/laravel-dss/main/screenshot/alternative_menu.png)
 
 Some library used in this project :
 
